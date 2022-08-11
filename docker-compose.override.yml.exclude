@@ -1,0 +1,4 @@
+services:
+  #solr:
+   # volumes:
+    #  - .\docker\data\solr:c:\data
